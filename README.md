@@ -22,7 +22,8 @@
 ## 🛠️ Tech Stack
 ### 🔥 Languages
 - 🐍 Python  
-- 🌐 JavaScript  
+- 🌐 JavaScript
+- 💻 C / C++ (Basic)
 
 ### ⚙️ Backend
 - 🧩 Django  
